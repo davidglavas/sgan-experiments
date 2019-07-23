@@ -1,0 +1,1091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/scripts/evaluate_model.py" line="345" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="85d623bb-fd1c-4b19-ac47-2babc412e3bd" name="Default Changelist" comment="Fixed cuda issue with rand pooling">
+      <change afterPath="$PROJECT_DIR$/scripts/evalResults/evalOutput/gumble_retrain_evaluation_results.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eth8_retrainedGumble72h_no_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/eth8_retrainedGumble72h_no_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eth8_retrainedGumble72h_with_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/retrained/gumble/eth8_retrainedGumble72h_with_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel8_retrainedGumble_72h_no_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/hotel8_retrainedGumble_72h_no_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel8_retrainedGumble_72h_with_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/retrained/gumble/hotel8_retrainedGumble_72h_with_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/evaluate_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/evaluate_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sgan/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/sgan/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/univ8_retrainedGumble_72h_no_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/univ8_retrainedGumble_72h_no_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/univ8_retrainedGumble_72h_with_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/retrained/gumble/univ8_retrainedGumble_72h_with_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zara1_retrainedGumble_72h_no_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/zara1_retrainedGumble_72h_no_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zara1_retrainedGumble_72h_with_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/retrained/gumble/zara1_retrainedGumble_72h_with_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zara2_retrainedGumble_72h_no_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/zara2_retrainedGumble_72h_no_model.pt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zara2_retrainedGumble_72h_with_model.pt" beforeDir="false" afterPath="$PROJECT_DIR$/models/retrained/gumble/zara2_retrainedGumble_72h_with_model.pt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sgan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/evaluate_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="281" column="13" selection-start-line="281" selection-start-column="13" selection-end-line="281" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sgan/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="175" column="25" lean-forward="true" selection-start-line="175" selection-start-column="25" selection-end-line="175" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+                <element signature="e#3139#4659#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/trainCPU.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="224" column="34" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>generator</find>
+      <find>torch.zeros</find>
+      <find>evalArgs</find>
+      <find>view</find>
+      <find>self.gp</find>
+      <find>use_gpu</find>
+      <find>gpu</find>
+      <find>currNumOfCollisions</find>
+      <find>name</find>
+      <find>set(np.asarray(currPoolingVectorIdxs))</find>
+      <find>addPercentage</find>
+      <find>pedestriansIncludedFirst</find>
+      <find>thresho</find>
+      <find>Non</find>
+      <find>noise_dim</find>
+      <find>cuda</find>
+      <find>pool_ever</find>
+      <find>norm</find>
+      <find>dim_</find>
+      <find>dim</find>
+      <find>d_steps</find>
+      <find>every</find>
+      <find>pool_every</find>
+      <find>plt.sho</find>
+      <find>.*#.*\n</find>
+      <find>plotTrajectories</find>
+      <find>visualizeSituation</find>
+      <find>colli</find>
+      <find>collisi</find>
+      <find>.mp4</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/__init__.py" />
+        <option value="$PROJECT_DIR$/sgan/__init__.py" />
+        <option value="$PROJECT_DIR$/sgan/data/trajectories.py" />
+        <option value="$PROJECT_DIR$/scripts/evalResults/visualizeResults.py" />
+        <option value="$PROJECT_DIR$/scripts/train.py" />
+        <option value="$PROJECT_DIR$/scripts/evaluate_modelCPU.py" />
+        <option value="$PROJECT_DIR$/.ignore" />
+        <option value="$PROJECT_DIR$/scripts/HelloWorld.py" />
+        <option value="$PROJECT_DIR$/scripts/trainCPU.py" />
+        <option value="$PROJECT_DIR$/scripts/print_args.py" />
+        <option value="$PROJECT_DIR$/scripts/evalResults/collisionChart.py" />
+        <option value="$PROJECT_DIR$/scripts/evalResults/evalOutput/rand_retrain_evaluation_results.txt" />
+        <option value="$PROJECT_DIR$/scripts/gumbleModule.py" />
+        <option value="$PROJECT_DIR$/scripts/evaluate_model.py" />
+        <option value="$PROJECT_DIR$/sgan/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Social-GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Social-GAN" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Social-GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Social-GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Social-GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Social-GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+              <item name="sgan-models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Social-GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Social-GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Social-GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Social-GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="evalResults" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Social-GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Social-GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="evalResults" type="462c0819:PsiDirectoryNode" />
+              <item name="evalOutput" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Social-GAN" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Social-GAN" type="462c0819:PsiDirectoryNode" />
+              <item name="sgan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts/evalResults/evalOutput" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/models/retrained/gumble" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/sgan" />
+      <recent name="$PROJECT_DIR$/scripts/evalResults/evalOutput" />
+      <recent name="$PROJECT_DIR$/scripts/evalResults" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts/evalResults/evalOutput" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.evaluate_model">
+    <configuration name="collisionChart" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sgan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/evalResults" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/evalResults/collisionChart.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="evaluate_model" type="PythonConfigurationType" factoryName="Python">
+      <module name="sgan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/evaluate_model.py" />
+      <option name="PARAMETERS" value="--model_path ../models/sgan-models --showStatistics=1 --use_gpu=0" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sgan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sgan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sgan/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print_args" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sgan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/print_args.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trainCPU" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sgan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/trainCPU.py" />
+      <option name="PARAMETERS" value="--encoder_h_dim_d=48 --neighborhood_size=2.0 --clipping_threshold_d=0 --clipping_threshold_g=2.0 --delim=tab --dataset_name=zara2 --print_every=100 --pred_len=8 --loader_num_workers=4 --obs_len=8 --encoder_h_dim_g=32 --batch_size=64 --num_epochs=200 --num_layers=1 --best_k=20 --d_steps=1 --skip=1 --g_steps=1 --g_learning_rate=0.0001 --l2_loss_weight=1.0 --grid_size=8 --bottleneck_dim=8 --checkpoint_name=checkpoint --gpu_num=0 --restore_from_checkpoint=1 --dropout=0.0 --checkpoint_every=300 --noise_mix_type=global --decoder_h_dim_g=32 --pooling_type=pool_net --use_gpu=0 --batch_norm=0 --noise_type=gaussian --pool_every_timestep=0 --d_learning_rate=0.001 --checkpoint_start_from=None --timing=0 --mlp_dim=64 --num_samples_check=5000 --d_type=global --num_iterations=7234 --noise_dim=8 --embedding_dim=16" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="visualizeResults" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sgan" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/evalResults" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scripts/evalResults/visualizeResults.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.evaluate_model" />
+      <item itemvalue="Python.collisionChart" />
+      <item itemvalue="Python.print_args" />
+      <item itemvalue="Python.trainCPU" />
+      <item itemvalue="Python.visualizeResults" />
+      <item itemvalue="Python.models" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.trainCPU" />
+        <item itemvalue="Python.print_args" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.collisionChart" />
+        <item itemvalue="Python.visualizeResults" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85d623bb-fd1c-4b19-ac47-2babc412e3bd" name="Default Changelist" comment="" />
+      <created>1558043974428</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558043974428</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Switched from cuda to cpu. Added the pretrained models and datasets. Now simply execute evaluate_model.py with '--model_path models/sgan-p-models' to inspect the .max() call">
+      <created>1558045114999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558045115000</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added comments">
+      <created>1558045631308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558045631308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Investigated training (cpu, gpu) and added evaluation results visualization.">
+      <created>1559259388316</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559259388316</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hello world test">
+      <created>1561373639481</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1561373639482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added __init__.py files">
+      <created>1561703464624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1561703464624</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix delim issue">
+      <created>1561704262594</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1561704262594</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Revert delim fix">
+      <created>1561704502509</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1561704502509</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Remove 'contiguous' to make train.py work (trainCPU.py needs contiguous)">
+      <created>1561704995224</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1561704995224</updated>
+    </task>
+    <task id="LOCAL-00009" summary="CPU to GPU">
+      <created>1561709796039</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1561709796039</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add gpu/cpu command line switch to evaluation script">
+      <created>1561730776429</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1561730776429</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add cpu/gpu command line switch to evaluation script">
+      <created>1561730807021</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1561730807021</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add cpu/gpu command line switch to training script">
+      <created>1561733066263</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1561733066263</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixed CUDA error: Statistics can only be computed when running the scripts on a CPU">
+      <created>1561737851015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1561737851015</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add .ignore">
+      <created>1561903270930</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1561903270930</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added collision statistics: &#10;1. Total number of collisions out of all frames ever computed&#10;2. Number of situations with collisions out of all situations ever computed (all samples)&#10;3. Total number of situations ever computed (with and without collisions, len(seq_start_end) * num_samples)&#10;4. List of all situations for which a collision has been detected (obs_traj, pred_traj_fake, pred_traj_gt), you can use this to visualize the situations.">
+      <created>1561904823481</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1561904823481</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added trajectory visualizations and collision evaluations for different thresholds">
+      <created>1562240063400</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1562240063400</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Delete models">
+      <created>1562263685613</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1562263685613</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Revert &quot;Delete models&quot;&#10;&#10;This reverts commit 8ff0efaa">
+      <created>1562264352125</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1562264352125</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Revert &quot;Revert &quot;Delete models&quot;&quot;&#10;&#10;This reverts commit d825d77c">
+      <created>1562264483980</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1562264483980</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Revert &quot;Revert &quot;Delete models&quot;&quot;&#10;&#10;This reverts commit d825d77c">
+      <created>1562507800081</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1562507800082</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Replace .max() with .mean()">
+      <created>1562529986984</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1562529986984</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Moved stuff">
+      <created>1562572065885</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1562572065885</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Moved .mean models">
+      <created>1562572594037</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1562572594037</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Replaced mean with random">
+      <created>1562574002427</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1562574002427</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fixed cuda issue with rand pooling">
+      <created>1562574827874</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1562574827874</updated>
+    </task>
+    <task id="LOCAL-00026" summary="- Added .rand() evaluation results, everything is ready to create the final table now.&#10;- Added collisions for different thresholds chart">
+      <created>1562869891219</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1562869891219</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Rename training script">
+      <created>1563028230751</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1563028230752</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Clean up">
+      <created>1563028368162</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1563028368162</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Rename training script back because of sbatch file">
+      <created>1563028609740</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1563028609740</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Added Gumble Pooling">
+      <created>1563537873140</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1563537873140</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="3008" height="1692" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4940171" visible="true" weight="0.1827377" />
+      <window_info id="Favorites" order="1" side_tool="true" weight="0.32980973" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283186" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49713877" visible="true" weight="0.18187423" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43493977" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4985694" weight="0.35903615" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50143063" side_tool="true" weight="0.31445783" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49928468" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="3" sideWeight="0.503876" weight="0.16809729" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added __init__.py files" />
+    <MESSAGE value="Fix delim issue" />
+    <MESSAGE value="Revert delim fix" />
+    <MESSAGE value="Remove 'contiguous' to make train.py work (trainCPU.py needs contiguous)" />
+    <MESSAGE value="CPU to GPU" />
+    <MESSAGE value="Add gpu/cpu command line switch to evaluation script" />
+    <MESSAGE value="Add cpu/gpu command line switch to evaluation script" />
+    <MESSAGE value="Add cpu/gpu command line switch to training script" />
+    <MESSAGE value="fixed CUDA error: Statistics can only be computed when running the scripts on a CPU" />
+    <MESSAGE value="Add .ignore" />
+    <MESSAGE value="Added collision statistics: &#10;1. Total number of collisions out of all frames ever computed&#10;2. Number of situations with collisions out of all situations ever computed (all samples)&#10;3. Total number of situations ever computed (with and without collisions, len(seq_start_end) * num_samples)&#10;4. List of all situations for which a collision has been detected (obs_traj, pred_traj_fake, pred_traj_gt), you can use this to visualize the situations." />
+    <MESSAGE value="Added trajectory visualizations and collision evaluations for different thresholds" />
+    <MESSAGE value="Delete models" />
+    <MESSAGE value="Revert &quot;Delete models&quot;&#10;&#10;This reverts commit 8ff0efaa" />
+    <MESSAGE value="Revert &quot;Revert &quot;Delete models&quot;&quot;&#10;&#10;This reverts commit d825d77c" />
+    <MESSAGE value="Replace .max() with .mean()" />
+    <MESSAGE value="Moved stuff" />
+    <MESSAGE value="Moved .mean models" />
+    <MESSAGE value="Replaced mean with random" />
+    <MESSAGE value="Fixed cuda issue with rand pooling" />
+    <MESSAGE value="- Added .rand() evaluation results, everything is ready to create the final table now.&#10;- Added collisions for different thresholds chart" />
+    <MESSAGE value="Rename training script" />
+    <MESSAGE value="Clean up" />
+    <MESSAGE value="Rename training script back because of sbatch file" />
+    <MESSAGE value="Added Gumble Pooling" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Gumble Pooling" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/evalResults/visualizeResults.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/scripts/evaluate_model.py</url>
+          <line>350</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sgan/models.py</url>
+          <line>351</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22500">
+          <caret line="1549" selection-start-line="1549" selection-end-line="1549" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/axis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19005">
+          <caret line="1285" selection-start-line="1285" selection-end-line="1285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/barCharts/includedOther.Dataset: eth, Pred Len: 12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4620">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/_type_aliases.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26355">
+          <caret line="1757" selection-start-line="1757" selection-end-line="1757" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/sgan.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/lib/stride_tricks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="192" selection-start-line="192" selection-end-line="192" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="1809" selection-start-line="1809" selection-end-line="1809" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/data/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/data/trajectories.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="7" lean-forward="true" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/download_models.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="77" selection-start-column="20" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/serialization.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="536" selection-start-line="536" selection-end-line="536" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/attrdict/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/cuda/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="161" selection-start-line="161" selection-end-line="161" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/nn/modules/rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2019.1/python_stubs/615384081/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="291" column="8" lean-forward="true" selection-start-line="291" selection-start-column="8" selection-end-line="291" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.ignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1507" selection-start-line="1507" selection-end-line="1507" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_vars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="231" selection-start-line="231" selection-end-line="231" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_resolver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="214" selection-start-line="214" selection-end-line="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/cbook/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="1364" selection-start-line="1364" selection-end-line="1364" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="537" selection-start-line="537" selection-end-line="537" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/HelloWorld.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/nn/modules/linear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/nn/modules/container.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/nn/functional.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="1403" selection-start-line="1403" selection-end-line="1403" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/thresholdsFigure.png" />
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/evalOutput">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/evalOutput/CollisionWITHPoolingResults.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="318" column="74" lean-forward="true" selection-start-line="318" selection-start-column="74" selection-end-line="318" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/losses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1440">
+          <caret line="97" column="29" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/tensor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5655">
+          <caret line="386" selection-start-line="386" selection-end-line="386" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/collisionChart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/visualizeResults.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="126" column="20" selection-start-line="126" selection-start-column="20" selection-end-line="126" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/print_args.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/trainCPU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="224" column="34" selection-start-line="224" selection-start-column="34" selection-end-line="224" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/evalOutput/CollisionNOPoolingResults.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="11" column="54" lean-forward="true" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/evalOutput/mean_retrain_evaluation_resuts.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="29" lean-forward="true" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/evalOutput/rand_retrain_evaluation_results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/evalOutput/max_retrain_evaluation_results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="52" lean-forward="true" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/torch/nn/modules/module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="492" selection-start-line="492" selection-end-line="492" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/gumbleModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evaluate_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="281" column="13" selection-start-line="281" selection-start-column="13" selection-end-line="281" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evalResults/evalOutput/gumble_retrain_evaluation_results.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sgan/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="175" column="25" lean-forward="true" selection-start-line="175" selection-start-column="25" selection-end-line="175" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+            <element signature="e#3139#4659#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

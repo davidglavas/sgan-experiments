@@ -1,0 +1,67 @@
+/Users/davidglavas/Documents/GitHub/Social-GAN/venv/bin/python "/Applications/PyCharm CE.app/Contents/helpers/pydev/pydevd.py" --multiproc --qt-support=auto --client 127.0.0.1 --port 65488 --file /Users/davidglavas/Documents/GitHub/Social-GAN/scripts/evaluate_model.py --model_path ../models/retrained/mean --showStatistics=1 --use_gpu=0
+pydev debugger: process 56672 is connecting
+
+Connected to pydev debugger (build 191.7141.48)
+
+Starting with evaluation of model: ../models/retrained/mean/eth8_retrainedMean72h_with_model.pt
+Backend MacOSX is interactive backend. Turning interactive mode on.
+Dataset: eth, Pred Len: 8, ADE: 0.64, FDE: 1.24
+Collisions for threshold: 0.5
+Test set statistics: {'/Users/davidglavas/Documents/GitHub/Social-GAN/datasets/eth/test': (195, Counter({2: 89, 3: 53, 4: 22, 5: 19, 6: 7, 12: 2, 13: 1, 7: 1, 8: 1}), 4)}
+Pooling vector statistics: (Counter(), Counter(), Counter(), Counter())
+Total number of frames with collisions (all situations, all samples): 3435
+Total number of situations (all samples, with and without collisions): 3900
+Total number of situations with collisions (all samples): 734, that's 18.8%
+
+ 
+
+
+Starting with evaluation of model: ../models/retrained/mean/hotel8_retrainedMean_72h_with_model.pt
+Dataset: hotel, Pred Len: 8, ADE: 0.29, FDE: 0.55
+Collisions for threshold: 0.5
+Test set statistics: {'/Users/davidglavas/Documents/GitHub/Social-GAN/datasets/hotel/test': (443, Counter({2: 127, 4: 101, 3: 81, 5: 60, 6: 29, 7: 26, 8: 14, 9: 5}), 7)}
+Pooling vector statistics: (Counter(), Counter(), Counter(), Counter())
+Total number of frames with collisions (all situations, all samples): 16179
+Total number of situations (all samples, with and without collisions): 8860
+Total number of situations with collisions (all samples): 2954, that's 33.3%
+
+ 
+
+
+Starting with evaluation of model: ../models/retrained/mean/univ8_retrainedMean_72h_with_model.pt
+Dataset: univ, Pred Len: 8, ADE: 0.37, FDE: 0.75
+Collisions for threshold: 0.5
+Test set statistics: {'/Users/davidglavas/Documents/GitHub/Social-GAN/datasets/univ/test': (955, Counter({26: 43, 34: 41, 27: 39, 21: 39, 33: 38, 23: 37, 18: 36, 22: 36, 35: 35, 14: 33, 36: 31, 25: 31, 37: 29, 28: 28, 41: 27, 32: 27, 39: 27, 24: 25, 38: 23, 17: 22, 42: 22, 30: 21, 40: 19, 19: 18, 29: 16, 31: 16, 20: 16, 44: 15, 15: 15, 43: 13, 13: 13, 6: 12, 9: 11, 16: 11, 7: 10, 48: 10, 47: 8, 49: 8, 10: 8, 45: 7, 11: 6, 46: 5, 8: 4, 12: 4, 53: 3, 56: 3, 54: 3, 55: 2, 62: 2, 57: 2, 50: 1, 64: 1, 65: 1, 61: 1, 51: 1}), 15)}
+Pooling vector statistics: (Counter(), Counter(), Counter(), Counter())
+Total number of frames with collisions (all situations, all samples): 709248
+Total number of situations (all samples, with and without collisions): 19100
+Total number of situations with collisions (all samples): 18497, that's 96.8%
+
+ 
+
+
+Starting with evaluation of model: ../models/retrained/mean/zara1_retrainedMean_72h_with_model.pt
+Dataset: zara1, Pred Len: 8, ADE: 0.22, FDE: 0.42
+Collisions for threshold: 0.5
+Test set statistics: {'/Users/davidglavas/Documents/GitHub/Social-GAN/datasets/zara1/test': (702, Counter({2: 192, 3: 166, 4: 126, 5: 82, 6: 59, 8: 25, 10: 12, 9: 12, 7: 11, 13: 4, 15: 4, 11: 4, 12: 3, 14: 2}), 11)}
+Pooling vector statistics: (Counter(), Counter(), Counter(), Counter())
+Total number of frames with collisions (all situations, all samples): 12070
+Total number of situations (all samples, with and without collisions): 14040
+Total number of situations with collisions (all samples): 2916, that's 20.8%
+
+ 
+
+
+Starting with evaluation of model: ../models/retrained/mean/zara2_retrainedMean_72h_with_model.pt
+Dataset: zara2, Pred Len: 8, ADE: 0.22, FDE: 0.44
+Collisions for threshold: 0.5
+Test set statistics: {'/Users/davidglavas/Documents/GitHub/Social-GAN/datasets/zara2/test': (956, Counter({7: 121, 8: 118, 6: 110, 4: 108, 9: 82, 10: 77, 5: 76, 2: 71, 3: 70, 11: 43, 12: 36, 13: 27, 14: 15, 16: 1, 17: 1}), 15)}
+Pooling vector statistics: (Counter(), Counter(), Counter(), Counter())
+Total number of frames with collisions (all situations, all samples): 135367
+Total number of situations (all samples, with and without collisions): 19120
+Total number of situations with collisions (all samples): 13983, that's 73.1%
+
+ 
+
+Process finished with exit code 1
+

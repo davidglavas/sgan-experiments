@@ -1,0 +1,350 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww17200\viewh10220\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Collision statistics results for different thresholds for all models WITHOUT POOLING:\
+\
+/Users/davidglavas/Documents/GitHub/Social-GAN/venv/bin/python /Users/davidglavas/Documents/GitHub/Social-GAN/scripts/evaluate_model.py --model_path ../models/sgan-models --showStatistics=0 --use_gpu=0\
+\
+Starting with evaluation of model: ../models/sgan-models/eth_12_model.pt\
+Dataset: eth, Pred Len: 12, ADE: 0.70, FDE: 1.27\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 7, that's 0.5%\
+Dataset: eth, Pred Len: 12, ADE: 0.70, FDE: 1.28\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 22, that's 1.6%\
+Dataset: eth, Pred Len: 12, ADE: 0.71, FDE: 1.33\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 67, that's 4.8%\
+Dataset: eth, Pred Len: 12, ADE: 0.72, FDE: 1.31\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 111, that's 7.9%\
+Dataset: eth, Pred Len: 12, ADE: 0.70, FDE: 1.32\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 141, that's 10.1%\
+Dataset: eth, Pred Len: 12, ADE: 0.71, FDE: 1.29\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 450, that's 32.1%\
+Dataset: eth, Pred Len: 12, ADE: 0.70, FDE: 1.27\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 721, that's 51.5%\
+Dataset: eth, Pred Len: 12, ADE: 0.70, FDE: 1.27\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 1400\
+Total number of situations with collisions (all samples): 1360, that's 97.1%\
+\
+Starting with evaluation of model: ../models/sgan-models/eth_8_model.pt\
+Dataset: eth, Pred Len: 8, ADE: 0.57, FDE: 1.12\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 15, that's 0.4%\
+Dataset: eth, Pred Len: 8, ADE: 0.58, FDE: 1.14\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 54, that's 1.4%\
+Dataset: eth, Pred Len: 8, ADE: 0.58, FDE: 1.14\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 155, that's 4.0%\
+Dataset: eth, Pred Len: 8, ADE: 0.58, FDE: 1.14\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 299, that's 7.7%\
+Dataset: eth, Pred Len: 8, ADE: 0.58, FDE: 1.14\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 735, that's 18.8%\
+Dataset: eth, Pred Len: 8, ADE: 0.57, FDE: 1.12\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 1422, that's 36.5%\
+Dataset: eth, Pred Len: 8, ADE: 0.58, FDE: 1.14\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 2335, that's 59.9%\
+Dataset: eth, Pred Len: 8, ADE: 0.57, FDE: 1.14\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 3900\
+Total number of situations with collisions (all samples): 3329, that's 85.4%\
+\
+Starting with evaluation of model: ../models/sgan-models/hotel_12_model.pt\
+Dataset: hotel, Pred Len: 12, ADE: 0.48, FDE: 1.03\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 83, that's 1.4%\
+Dataset: hotel, Pred Len: 12, ADE: 0.48, FDE: 1.03\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 160, that's 2.7%\
+Dataset: hotel, Pred Len: 12, ADE: 0.48, FDE: 1.03\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 367, that's 6.1%\
+Dataset: hotel, Pred Len: 12, ADE: 0.48, FDE: 1.02\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 697, that's 11.6%\
+Dataset: hotel, Pred Len: 12, ADE: 0.47, FDE: 1.01\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 1695, that's 28.2%\
+Dataset: hotel, Pred Len: 12, ADE: 0.49, FDE: 1.03\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 3229, that's 53.6%\
+Dataset: hotel, Pred Len: 12, ADE: 0.48, FDE: 1.01\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 4231, that's 70.3%\
+Dataset: hotel, Pred Len: 12, ADE: 0.48, FDE: 1.02\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 6020\
+Total number of situations with collisions (all samples): 5163, that's 85.8%\
+\
+Starting with evaluation of model: ../models/sgan-models/hotel_8_model.pt\
+Dataset: hotel, Pred Len: 8, ADE: 0.36, FDE: 0.71\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 56, that's 0.6%\
+Dataset: hotel, Pred Len: 8, ADE: 0.36, FDE: 0.71\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 169, that's 1.9%\
+Dataset: hotel, Pred Len: 8, ADE: 0.37, FDE: 0.72\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 456, that's 5.1%\
+Dataset: hotel, Pred Len: 8, ADE: 0.36, FDE: 0.71\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 858, that's 9.7%\
+Dataset: hotel, Pred Len: 8, ADE: 0.37, FDE: 0.73\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 2583, that's 29.2%\
+Dataset: hotel, Pred Len: 8, ADE: 0.36, FDE: 0.71\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 4601, that's 51.9%\
+Dataset: hotel, Pred Len: 8, ADE: 0.36, FDE: 0.72\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 6258, that's 70.6%\
+Dataset: hotel, Pred Len: 8, ADE: 0.36, FDE: 0.72\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 8860\
+Total number of situations with collisions (all samples): 7984, that's 90.1%\
+\
+Starting with evaluation of model: ../models/sgan-models/univ_12_model.pt\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 3584, that's 18.9%\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 8641, that's 45.6%\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 14283, that's 75.4%\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 16424, that's 86.7%\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 18250, that's 96.4%\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 18755, that's 99.0%\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 18898, that's 99.8%\
+Dataset: univ, Pred Len: 12, ADE: 0.56, FDE: 1.18\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 18940\
+Total number of situations with collisions (all samples): 18920, that's 99.9%\
+\
+Starting with evaluation of model: ../models/sgan-models/univ_8_model.pt\
+Dataset: univ, Pred Len: 8, ADE: 0.33, FDE: 0.70\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 2364, that's 12.4%\
+Dataset: univ, Pred Len: 8, ADE: 0.33, FDE: 0.70\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 6735, that's 35.3%\
+Dataset: univ, Pred Len: 8, ADE: 0.34, FDE: 0.70\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 13050, that's 68.3%\
+Dataset: univ, Pred Len: 8, ADE: 0.33, FDE: 0.70\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 16033, that's 83.9%\
+Dataset: univ, Pred Len: 8, ADE: 0.33, FDE: 0.70\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 18458, that's 96.6%\
+Dataset: univ, Pred Len: 8, ADE: 0.34, FDE: 0.70\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 18997, that's 99.5%\
+Dataset: univ, Pred Len: 8, ADE: 0.33, FDE: 0.69\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 19100, that's 100.0%\
+Dataset: univ, Pred Len: 8, ADE: 0.33, FDE: 0.70\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 19100\
+Total number of situations with collisions (all samples): 19100, that's 100.0%\
+\
+Starting with evaluation of model: ../models/sgan-models/zara1_12_model.pt\
+Dataset: zara1, Pred Len: 12, ADE: 0.34, FDE: 0.68\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 42, that's 0.3%\
+Dataset: zara1, Pred Len: 12, ADE: 0.34, FDE: 0.68\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 160, that's 1.3%\
+Dataset: zara1, Pred Len: 12, ADE: 0.34, FDE: 0.69\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 483, that's 4.0%\
+Dataset: zara1, Pred Len: 12, ADE: 0.34, FDE: 0.68\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 936, that's 7.8%\
+Dataset: zara1, Pred Len: 12, ADE: 0.34, FDE: 0.69\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 2545, that's 21.1%\
+Dataset: zara1, Pred Len: 12, ADE: 0.34, FDE: 0.68\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 4927, that's 40.9%\
+Dataset: zara1, Pred Len: 12, ADE: 0.34, FDE: 0.69\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 9582, that's 79.6%\
+Dataset: zara1, Pred Len: 12, ADE: 0.33, FDE: 0.68\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 12040\
+Total number of situations with collisions (all samples): 10855, that's 90.2%\
+\
+Starting with evaluation of model: ../models/sgan-models/zara1_8_model.pt\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.41\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 28, that's 0.2%\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 113, that's 0.8%\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.41\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 414, that's 2.9%\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.41\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 776, that's 5.5%\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 2691, that's 19.2%\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.41\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 5948, that's 42.4%\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.41\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 11098, that's 79.0%\
+Dataset: zara1, Pred Len: 8, ADE: 0.21, FDE: 0.41\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 14040\
+Total number of situations with collisions (all samples): 12866, that's 91.6%\
+\
+Starting with evaluation of model: ../models/sgan-models/zara2_12_model.pt\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.64\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 393, that's 2.1%\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.65\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 1145, that's 6.2%\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.65\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 2752, that's 14.9%\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.65\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 4582, that's 24.9%\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.64\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 12224, that's 66.4%\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.65\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 15969, that's 86.7%\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.65\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 16881, that's 91.6%\
+Dataset: zara2, Pred Len: 12, ADE: 0.31, FDE: 0.64\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 18420\
+Total number of situations with collisions (all samples): 17287, that's 93.8%\
+\
+Starting with evaluation of model: ../models/sgan-models/zara2_8_model.pt\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 0.05\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 243, that's 1.3%\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.43\
+Collisions for threshold: 0.1\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 758, that's 4.0%\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 0.2\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 2064, that's 10.8%\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 0.3\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 4002, that's 20.9%\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.43\
+Collisions for threshold: 0.5\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 12630, that's 66.1%\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 0.7\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 16617, that's 86.9%\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 1\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 17570, that's 91.9%\
+Dataset: zara2, Pred Len: 8, ADE: 0.21, FDE: 0.42\
+Collisions for threshold: 2\
+Total number of situations (all samples, with and without collisions): 19120\
+Total number of situations with collisions (all samples): 18031, that's 94.3%}
